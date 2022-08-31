@@ -1,0 +1,1 @@
+Todo o texto aqui inserido substituirá o existente no arquivo, se houver. Caso contrário permanece este escrito

@@ -1,4 +1,3 @@
-clear
- gitexports.myDate = function() {
+exports.atualData = function() {
   return Date();
 };
